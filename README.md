@@ -1,3 +1,4 @@
+<img width="959" height="823" alt="image" src="https://github.com/user-attachments/assets/b6ad173d-af5d-4fdd-8e12-3bb9a8458a88" />
 
 ---
 
@@ -268,6 +269,7 @@ const secondCounter = new Counter(getElement('.second-counter'), 200);
 
 רוצה שאכין גם **גרסת המשך** לשיעור הזה – “מחשבון עם OOP + שמירה ב־localStorage”?
 זה מצוין לשלב הבא של הקורס.
+
 
 
 
